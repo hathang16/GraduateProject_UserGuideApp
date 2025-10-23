@@ -108,7 +108,7 @@
 ## 🖼️ 앱 아이콘 이미지 출처
 <img width="32" height="32" alt="free-icon-user-guide-5558175" src="https://github.com/user-attachments/assets/215f84ad-df35-4cc7-bc73-92741a5136ef" />
 
-> 아이콘 제작자: [Freepik - Flaticon](https://www.flaticon.com/kr/free-icons/)
+> 아이콘 제작자: [Freepik - Flaticon](https://www.flaticon.com/kr/free-icon/user-guide_5558175)
 
 ---
 
